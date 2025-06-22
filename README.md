@@ -318,6 +318,8 @@ A collection of resources for working with sequential and time series data
 - [Data For Science - Time Series for Everyone](https://data4sci.com/timeseries)
 - [Kaggle - Time Series](https://www.kaggle.com/learn/time-series)
 - [Udacity - Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
+- [Train in Data - Forecasting with Machine Learning](https://www.trainindata.com/p/forecasting-with-machine-learning)
+- [Train in Data - Feature Engineering for Time Series Forecasting](https://www.trainindata.com/p/feature-engineering-for-forecasting)
 
 ## Tutorials
 
